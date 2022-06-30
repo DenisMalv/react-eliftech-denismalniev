@@ -4,7 +4,7 @@ import { useParams } from 'react-router-dom';
 
 import { useSelector } from 'react-redux';
 
-import { useGetMacdonnyItemsRTKQuery } from 'redux/RTKProductsApi/ProductsApi';
+import { useGetCompanyItemsRTKQuery } from 'redux/RTKProductsApi/ProductsApi';
 import { getUserProductsInBasket } from 'redux/orderBasketSlice/orderBasketSlice';
 import ProductItem from 'components/ProductItem/ProductItem';
 
@@ -12,7 +12,7 @@ const ProductList = () => {
   const { companyName } = useParams();
   const userProductsInBasket = useSelector(getUserProductsInBasket);
   console.log('companyName', companyName);
-  const { data = [] } = useGetMacdonnyItemsRTKQuery();
+  const { data = [] } = useGetCompanyItemsRTKQuery();
 
   const filteredShopsProduct = (response, companyName) => {
     return response.filter(product => product.restoraunt === companyName);

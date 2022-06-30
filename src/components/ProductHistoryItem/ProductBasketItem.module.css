@@ -36,7 +36,7 @@ display: flex;
 
 .itemImage{
   max-width: 200px;
-  max-height: 126px;
+  height: 126px;
   overflow: hidden;
   border-radius: 30px;
 }
@@ -51,9 +51,9 @@ display: flex;
   background-color: rgba(107, 107, 107, 0.2);
 
 }
-
+/* 
 .productList__text {
-}
+} */
 .productList__input{
   cursor: pointer;
   

@@ -4,7 +4,7 @@ export const productsApi = createApi({
   reducerPath: 'products',
   tagTypes: ['Products'],
   baseQuery: fetchBaseQuery({
-    baseUrl: 'http://localhost:3000/api/',
+    baseUrl: 'https://eliftech-test-denismalniev.herokuapp.com/api/',
     // prepareHeaders: (headers, { getState }) => {
     //   const token = getState().token.token;
     //   if (token) {
@@ -14,7 +14,7 @@ export const productsApi = createApi({
     // },
   }),
   endpoints: build => ({
-    getMacdonnyItemsRTK: build.query({
+    getCompanyItemsRTK: build.query({
       query: () => ({
         url: `/products`,
         method: 'GET',
@@ -22,7 +22,7 @@ export const productsApi = createApi({
       }),
       providesTags: ['Products'],
     }),
-    addMacdonnyItemRTK: build.mutation({
+    addCompanyItemRTK: build.mutation({
       query: body => ({
         url: '/products',
         method: 'POST',
@@ -31,7 +31,7 @@ export const productsApi = createApi({
       }),
       invalidatesTags: ['Products'],
     }),
-    deleteMacdonnyItemRTK: build.mutation({
+    deleteCompanyItemRTK: build.mutation({
       query: body => ({
         url: `/products/${body.id}`,
         method: 'DELETE',
@@ -43,7 +43,7 @@ export const productsApi = createApi({
 });
 
 export const {
-  useGetMacdonnyItemsRTKQuery,
-  useAddMacdonnyItemRTKMutation,
-  useDeleteMacdonnyItemRTKMutation,
+  useGetCompanyItemsRTKQuery,
+  useAddCompanyItemRTKMutation,
+  useDeleteCompanyItemRTKMutation,
 } = productsApi;

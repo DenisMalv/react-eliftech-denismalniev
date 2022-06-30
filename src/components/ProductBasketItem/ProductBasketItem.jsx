@@ -1,10 +1,9 @@
 import React from 'react';
 import css from './ProductBasketItem.module.css';
 import propTypes from 'prop-types';
-import { useDispatch, useSelector } from 'react-redux';
+import { useDispatch } from 'react-redux';
 import {
   deleteProductFromBasket,
-  getUserProductsInBasket,
   updateProductFromBasket,
 } from 'redux/orderBasketSlice/orderBasketSlice';
 import { useState } from 'react';

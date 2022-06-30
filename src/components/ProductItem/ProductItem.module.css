@@ -20,13 +20,14 @@ display: flex;
 }
 .itemImage{
   max-width: 200px;
-  max-height: 126px;
+  height: 126px;
   border-radius: 20px;
   overflow: hidden;
 }
-.productList__item:hover {
-/* background-color: rgba(107, 107, 107, 0.2); */
+/* .productList__item:hover {
+ background-color: rgba(107, 107, 107, 0.2); 
 }
+ */
 
 .productList__text {
       padding: 10px;
@@ -40,6 +41,7 @@ display: flex;
       align-items: center;
       justify-content: center;
       transition: 0.8s cubic-bezier(0.165, 0.84, 0.44, 1);
+      height: 20px;
 }
 
 .productList__button {

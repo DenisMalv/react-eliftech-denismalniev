@@ -4,7 +4,7 @@ export const ordersApi = createApi({
   reducerPath: 'orders',
   tagTypes: ['Orders'],
   baseQuery: fetchBaseQuery({
-    baseUrl: 'http://localhost:3000/api/',
+    baseUrl: 'https://eliftech-test-denismalniev.herokuapp.com/api/',
     // prepareHeaders: (headers, { getState }) => {
     //   const token = getState().token.token;
     //   if (token) {
