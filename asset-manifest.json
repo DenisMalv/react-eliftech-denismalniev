@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react-eliftech-denismalniev/static/css/main.dc022e7e.css",
+    "main.js": "/react-eliftech-denismalniev/static/js/main.f50bbdae.js",
+    "static/css/501.6604f8e5.chunk.css": "/react-eliftech-denismalniev/static/css/501.6604f8e5.chunk.css",
+    "static/js/501.0c50be4f.chunk.js": "/react-eliftech-denismalniev/static/js/501.0c50be4f.chunk.js",
+    "static/css/867.579f642a.chunk.css": "/react-eliftech-denismalniev/static/css/867.579f642a.chunk.css",
+    "static/js/867.e161d406.chunk.js": "/react-eliftech-denismalniev/static/js/867.e161d406.chunk.js",
+    "static/js/207.8311ed6e.chunk.js": "/react-eliftech-denismalniev/static/js/207.8311ed6e.chunk.js",
+    "static/css/281.5add7288.chunk.css": "/react-eliftech-denismalniev/static/css/281.5add7288.chunk.css",
+    "static/js/281.5c2899d0.chunk.js": "/react-eliftech-denismalniev/static/js/281.5c2899d0.chunk.js",
+    "static/css/631.3daca045.chunk.css": "/react-eliftech-denismalniev/static/css/631.3daca045.chunk.css",
+    "static/js/631.8e00de0e.chunk.js": "/react-eliftech-denismalniev/static/js/631.8e00de0e.chunk.js",
+    "static/js/105.9799bd85.chunk.js": "/react-eliftech-denismalniev/static/js/105.9799bd85.chunk.js",
+    "static/media/pexels-photo-116612501.jpg": "/react-eliftech-denismalniev/static/media/pexels-photo-116612501.7189d344a9db8f533197.jpg",
+    "index.html": "/react-eliftech-denismalniev/index.html",
+    "main.dc022e7e.css.map": "/react-eliftech-denismalniev/static/css/main.dc022e7e.css.map",
+    "main.f50bbdae.js.map": "/react-eliftech-denismalniev/static/js/main.f50bbdae.js.map",
+    "501.6604f8e5.chunk.css.map": "/react-eliftech-denismalniev/static/css/501.6604f8e5.chunk.css.map",
+    "501.0c50be4f.chunk.js.map": "/react-eliftech-denismalniev/static/js/501.0c50be4f.chunk.js.map",
+    "867.579f642a.chunk.css.map": "/react-eliftech-denismalniev/static/css/867.579f642a.chunk.css.map",
+    "867.e161d406.chunk.js.map": "/react-eliftech-denismalniev/static/js/867.e161d406.chunk.js.map",
+    "207.8311ed6e.chunk.js.map": "/react-eliftech-denismalniev/static/js/207.8311ed6e.chunk.js.map",
+    "281.5add7288.chunk.css.map": "/react-eliftech-denismalniev/static/css/281.5add7288.chunk.css.map",
+    "281.5c2899d0.chunk.js.map": "/react-eliftech-denismalniev/static/js/281.5c2899d0.chunk.js.map",
+    "631.3daca045.chunk.css.map": "/react-eliftech-denismalniev/static/css/631.3daca045.chunk.css.map",
+    "631.8e00de0e.chunk.js.map": "/react-eliftech-denismalniev/static/js/631.8e00de0e.chunk.js.map",
+    "105.9799bd85.chunk.js.map": "/react-eliftech-denismalniev/static/js/105.9799bd85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc022e7e.css",
+    "static/js/main.f50bbdae.js"
+  ]
+}
