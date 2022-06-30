@@ -6,10 +6,10 @@
 -    b)page https://denismalv.github.io/react-eliftech-denismalniev/ 
 -    the backend code is on github + heroku 
 -    How to start:
--     a) in the browser: 
--        1.follow the link https://denismalv.github.io/react-eliftech-denismalniev/
--     b) locally: 
--        1.commands to run :npm start 
--        2.commands to deploy:npm deploy 
+-    in the browser: 
+-       1.follow the link https://denismalv.github.io/react-eliftech-denismalniev/
+-    locally: 
+-       1.commands to run :npm start 
+-       2.commands to deploy:npm deploy 
 
 
