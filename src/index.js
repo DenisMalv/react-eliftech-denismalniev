@@ -6,12 +6,12 @@ import { Provider } from 'react-redux';
 import { BrowserRouter } from 'react-router-dom';
 import { PersistGate } from 'redux-persist/integration/react';
 import './index.css';
-// basename = 'goit-react-hw-08-phonebook-RTKQuery';
+
 ReactDOM.render(
   // <React.StrictMode>
   <Provider store={store}>
     <PersistGate loading={null} persistor={persistor}>
-      <BrowserRouter>
+      <BrowserRouter basename = 'react-eliftech-denismalniev'>
         <App />
       </BrowserRouter>
     </PersistGate>
