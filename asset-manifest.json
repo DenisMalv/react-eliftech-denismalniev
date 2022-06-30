@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-eliftech-denismalniev/static/css/main.dc022e7e.css",
-    "main.js": "/react-eliftech-denismalniev/static/js/main.11f4ad30.js",
+    "main.js": "/react-eliftech-denismalniev/static/js/main.a8f2b7ca.js",
     "static/css/501.6604f8e5.chunk.css": "/react-eliftech-denismalniev/static/css/501.6604f8e5.chunk.css",
     "static/js/501.0c50be4f.chunk.js": "/react-eliftech-denismalniev/static/js/501.0c50be4f.chunk.js",
     "static/css/867.579f642a.chunk.css": "/react-eliftech-denismalniev/static/css/867.579f642a.chunk.css",
@@ -15,7 +15,7 @@
     "static/media/pexels-photo-116612501.jpg": "/react-eliftech-denismalniev/static/media/pexels-photo-116612501.7189d344a9db8f533197.jpg",
     "index.html": "/react-eliftech-denismalniev/index.html",
     "main.dc022e7e.css.map": "/react-eliftech-denismalniev/static/css/main.dc022e7e.css.map",
-    "main.11f4ad30.js.map": "/react-eliftech-denismalniev/static/js/main.11f4ad30.js.map",
+    "main.a8f2b7ca.js.map": "/react-eliftech-denismalniev/static/js/main.a8f2b7ca.js.map",
     "501.6604f8e5.chunk.css.map": "/react-eliftech-denismalniev/static/css/501.6604f8e5.chunk.css.map",
     "501.0c50be4f.chunk.js.map": "/react-eliftech-denismalniev/static/js/501.0c50be4f.chunk.js.map",
     "867.579f642a.chunk.css.map": "/react-eliftech-denismalniev/static/css/867.579f642a.chunk.css.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.dc022e7e.css",
-    "static/js/main.11f4ad30.js"
+    "static/js/main.a8f2b7ca.js"
   ]
 }
